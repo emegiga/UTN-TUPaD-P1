@@ -153,7 +153,7 @@ Compartir la URL del mismo (por ej, https://github.com/emegiga/UTN-TUPaD-P1)
 
 # 2) Realizar la siguiente actividad:
 
-### ==**\[Link del repositorio en GitHub: https://github.com/emegiga/prog1_tp2_ej2\]**==
+### **[https://github.com/emegiga/prog1_tp2_ej2\\](https://github.com/emegiga/prog1_tp2_ej2)**
 
 - **Crear un repositorio.**
     - Dale un nombre al repositorio.
@@ -170,7 +170,7 @@ Compartir la URL del mismo (por ej, https://github.com/emegiga/UTN-TUPaD-P1)
 
 # 3) Realizar la siguiente actividad:
 
-### ==**\[Link del repositorio en GitHub: https://github.com/emegiga/prog1_tp2_ej3\]**==
+### **[https://github.com/emegiga/prog1_tp2_ej3\\](https://github.com/emegiga/prog1_tp2_ej3)**
 
 **Paso 1: Crear un repositorio en GitHub**  
 • Ve a GitHub e inicia sesión en tu cuenta.  
